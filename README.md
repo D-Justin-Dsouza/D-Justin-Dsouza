@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Justin  
 
 ### 🚀 About Me  
-💻 **CS undergrad** with a passion problem-solving and dev  
-🔍 Currently exploring **Kotlin & Assembly**  
+💻 **CS undergrad** with a passion problem-solving and dev    
 👯 Open to **collabs**—let’s create something!  
 🏋️‍♂️ When I’m not coding, I’m either **grinding at the gym, gaming, or studying 🙂**  
 ⚡ Also, **anime binger**—recommend me something good! 🎬🔥  
@@ -12,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
