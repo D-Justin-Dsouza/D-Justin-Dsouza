@@ -19,7 +19,8 @@
 </p>   
 
 ### 📊 GitHub Stats  
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Justin-Dsouza&show_icons=true&theme=radical)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-Justin-Dsouza&layout=compact&theme=dark" alt="D-Justin-Dsouza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Justin-Dsouza&show_icons=true&theme=radical" alt="D-Justin-Dsouza" /></p>
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-c-d-souza-9a6b401aa/)
