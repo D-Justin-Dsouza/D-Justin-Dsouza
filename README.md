@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Justin  
 
 ### 🚀 About Me  
-💻 **CS undergrad** with a passion problem-solving and dev    
+💻 **CS undergrad** with a passion problem-solving and dev 
+😃 Currently Exploring Backend Dev.
 👯 Open to **collabs**—let’s create something!  
 🏋️‍♂️ When I’m not coding, I’m either **grinding at the gym, gaming, or studying 🙂**  
 ⚡ Also, **anime binger**—recommend me something good! 🎬🔥  
